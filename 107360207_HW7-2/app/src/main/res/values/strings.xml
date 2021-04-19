@@ -1,0 +1,57 @@
+<!--
+  ~ Copyright (C) 2018 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">107360207_HW7-2</string>
+    <string name="action_settings">Settings</string>
+    <string name="recipe1">紅燒牛腩</string>
+    <string name="recipe2">蔥油雞</string>
+    <string name="textview">食用份量：4人份
+
+材料
+牛腩一斤半(900公克)
+洋蔥一個(切成細條狀)
+蒜頭6粒
+八角1-2顆
+嫩薑1塊(切片)
+青蔥2支(1支切成蔥段川燙用／另1整支不用切爆炒用)
+辣椒1大支(切成兩段並把表面切開)
+
+調味料
+沙拉油5大匙
+辣豆瓣醬2大匙(口味清淡者可用1大匙)
+胡椒粉1/3小匙
+醬油4大匙
+白砂糖或冰糖1大匙
+米酒2+1大匙(川燙時用2大匙，烹煮時用1大匙)</string>
+
+    <string name="textview2">食用份量：4人份
+
+4人份
+去骨仿土雞腿肉 1片(500g)
+[醃料]
+鹽巴 1 小匙
+白胡椒粉 0.5 小匙
+米酒 2 小匙
+[蔥油醬]
+青蔥 50 g
+薑末 5 g
+蒜末 5 g
+香油 1.5 大匙
+雞高湯 1.5 大匙</string>
+
+
+</resources>
