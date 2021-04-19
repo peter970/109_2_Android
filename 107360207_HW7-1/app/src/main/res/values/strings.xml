@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">107360207_HW7</string>
+    <string name="tab_label1">Top Stories</string>
+    <string name="tab_label2">Tech News</string>
+    <string name="tab_label3">Cooking</string>
+    <string name="donuts">Donuts</string>
+    <string name="title_activity2">107360207_HW7</string>
+    <string name="title_activity3">107360207_HW7</string>
+    <string name="title_activity4">107360207_HW7</string>
+    <string name="ice_cream_sandwiches">Ice cream</string>
+    <string name="froyo">FroYo</string>
+</resources>
