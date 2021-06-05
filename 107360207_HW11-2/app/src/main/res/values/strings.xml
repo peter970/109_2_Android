@@ -1,0 +1,32 @@
+<!--
+  ~
+  ~   Copyright (C) 2018 Google Inc.
+  ~
+  ~   Licensed under the Apache License, Version 2.0 (the "License");
+  ~   you may not use this file except in compliance with the License.
+  ~   You may obtain a copy of the License at
+  ~
+  ~        http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~   Unless required by applicable law or agreed to in writing, software
+  ~   distributed under the License is distributed on an "AS IS" BASIS,
+  ~   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~   See the License for the specific language governing permissions and
+  ~   limitations under the License.
+  ~
+  -->
+
+<resources>
+    <string name="app_name">107360207_HW11-2</string>
+    <string name="notification_title">Performing Work</string>
+    <string name="notification_text">Download in progress.</string>
+    <string name="update">Update Notification</string>
+    <string name="update1">Update Notification1</string>
+    <string name="update2">Update Notification2</string>
+    <string name="notify_me">Download now!</string>
+    <string name="update_me">Update Me!</string>
+    <string name="cancel_me">Cancel Me!</string>
+    <string name="notification_updated">Notification Updated!</string>
+    <string name="notification_channel_name">Mascot Notification</string>
+    <string name="notification_channel_description">Notification from Mascot</string>
+</resources>
