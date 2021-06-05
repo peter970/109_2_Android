@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">107360207_HW12-1</string>
+    <string name="notification_title">Stand Up Alert</string>
+    <string name="notification_text">You should stand up and walk around now!</string>
+</resources>
