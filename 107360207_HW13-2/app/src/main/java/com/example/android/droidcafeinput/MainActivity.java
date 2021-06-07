@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
         String marketPref = sharedPref
                 .getString("sync_frequency", "-1");
         String delivery = sharedPref
-                .getString("sync_delivery", "same day messenger service");
+                .getString("example_choose", "same day messenger service");
         displayToast(marketPref);
         displayToast(delivery);
     }
